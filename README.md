@@ -12,7 +12,7 @@ SDG 12 aims to reduce waste generation, promote efficient resource use, and enco
 The food industry has a significant impact on our planet's resources, making it a key area for addressing SDG 12.
 Specifically, I am aiming to reduce food's carbon footprint.
 
-*TECHSTACK - HTML,CSS,JAVASCRIPT*
+*TECHSTACK - HTML, CSS, JAVASCRIPT*
 
 **Features of our Website**
 
