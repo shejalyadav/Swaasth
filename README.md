@@ -12,6 +12,8 @@ SDG 12 aims to reduce waste generation, promote efficient resource use, and enco
 The food industry has a significant impact on our planet's resources, making it a key area for addressing SDG 12.
 Specifically, I am aiming to reduce food's carbon footprint.
 
+TECHSTACK - HTML,CSS,JAVASCRIPT
+
 **Features of our Website**
 
 **1. Carbon Footprint Calculator:** Evaluates meal environmental impact, offering low or high footprint values and sustainability ratings.
@@ -27,8 +29,21 @@ Specifically, I am aiming to reduce food's carbon footprint.
 **Unique Offerings: Standing Out from the Rest**
 While other websites may offer food suggestions and sustainability tips separately, we've combined everything you need into a single platform. With features like a carbon footprint calculator, recipe recommendations, and video tutorials, we've simplified sustainable eating like never before.
 
+**Applicability of the Project**
 
+**Consumer Awareness:** It offers consumers easy access to information about the carbon footprint of various food products, helping them make more sustainable choices.
 
+**Food Industry:** Food producers and retailers can use our platform to highlight their eco-friendly products, attracting eco-conscious consumers and promoting sustainable practices.
+
+**Education:** Our platform serves as an educational tool in schools, universities, and community organizations to raise awareness about the environmental impact of food consumption and the importance of sustainability.
+
+**Feasibility of the Project**
+
+**Technical Feasibility:**  Yes, This involves evaluating whether the technology required to develop and maintain the website platform is available and feasible.
+
+**Financial Feasibility:** Yes, Consideration of the project's cost is crucial. This includes expenses related to development, maintenance, hosting, and marketing. 
+
+**Legal and Regulatory Feasibility:** Yes, Compliance with data protection laws and food labeling regulations is crucial.
 
 
 
